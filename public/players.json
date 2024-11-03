@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "img": "https://cdn.dhakapost.com/media/imgAll/BG/2024August/shakib-al-hasan-20240827115302.jpg",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "type": "Allrounder",
+    "batting_style": "Left-handed batsman",
+    "price": 250000,
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "img": "https://i0.wp.com/sangbadchorcha.com/wp-content/uploads/2020/03/liton-cr100.jpg?fit=712%2C407&ssl=1",
+    "name": "Liton Das",
+    "country": "Bangladesh",
+    "type": "Batsman",
+    "batting_style": "Right-handed batsman",
+    "price": 120000,
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "img": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/big_202/public/images/2023/10/25/mahmudullah.jpg",
+    "name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "type": "Allrounder",
+    "batting_style": "Right-handed batsman",
+    "price": 140000,
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "img": "https://api.bdcrictime.com/mustafizur-rahman-15_03_2022.jpg",
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "type": "Bowler",
+    "batting_style": "Left-handed batsman",
+    "price": 180000,
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "img": "https://static.langimg.com/photo/imgsize-26436,msid-98821189/eisamay.jpg",
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "type": "Wicketkeeper Batsman",
+    "batting_style": "Right-handed batsman",
+    "price": 200000,
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_TjzWJbBqNQZ3QjuntLfxlJZDYAmMqJ1yPA&s",
+    "name": "Mashrafe Mortaza",
+    "country": "Bangladesh",
+    "type": "Allrounder",
+    "batting_style": "Right-handed batsman",
+    "price": 170000,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "img": "https://cricket97.com/public/storage/upload/news/original/97e8a43b-bd83-4e55-876c-41a849ee6581.webp",
+    "name": "Tiwid Redoy",
+    "country": "Bangladesh",
+    "type": "Batsman",
+    "batting_style": "Left-handed batsman",
+    "price": 110000,
+    "rating": 4.1
+  },
+  {
+    "id": 8,
+    "img": "https://images.prothomalo.com/prothomalo-english%2F2023-09%2F7cbc8579-38fb-4f7c-95e9-e1e9d2814100%2F500666_01_02.jpg?auto=format%2Ccompress&fmt=webp&dpr=1.0&format=webp&w=400",
+    "name": "Soriful Islam",
+    "country": "Bangladesh",
+    "type": "Bowler",
+    "batting_style": "Right-handed batsman",
+    "price": 130000,
+    "rating": 4.0
+  },
+  {
+    "id": 9,
+    "img": "https://outspoken.newagebd.com/files/img/202406/b8ecea552b1013457114ee63616d540a.jpg",
+    "name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "type": "Bowler",
+    "batting_style": "Right-handed batsman",
+    "price": 160000,
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "img": "https://www.satv.tv/wp-content/uploads/2023/07/snm.jpg",
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "type": "Batsman",
+    "batting_style": "Left-handed batsman",
+    "price": 220000,
+    "rating": 4.8
+  },
+  {
+    "id": 11,
+    "img": "https://crictoday.com/wp-content/uploads/2024/05/300212.6.webp",
+    "name": "Mahmudul Hasan Joy",
+    "country": "Bangladesh",
+    "type": "Batsman",
+    "batting_style": "Right-handed batsman",
+    "price": 140000,
+    "rating": 4.3
+  },
+  {
+    "id": 12,
+    "img": "https://img.cricketworld.com/images/f-129187/ebadot-hossain.jpg",
+    "name": "Ebadot Hossain",
+    "country": "Bangladesh",
+    "type": "Bowler",
+    "batting_style": "Right-handed batsman",
+    "price": 125000,
+    "rating": 4.1
+  },
+  {
+    "id": 13,
+    "img": "https://bucket.barta24.com/uploads/news/2021/Oct/06/1633528965094.jpg",
+    "name": "Nasum Ahmed",
+    "country": "Bangladesh",
+    "type": "Bowler",
+    "batting_style": "Left-handed batsman",
+    "price": 115000,
+    "rating": 4.0
+  },
+  {
+    "id": 14,
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_960,q_50/lsci/db/PICTURES/CMS/380300/380392.6.jpg",
+    "name": "Risad Hossain",
+    "country": "Bangladesh",
+    "type": "Allrounder",
+    "batting_style": "Right-handed batsman",
+    "price": 155000,
+    "rating": 4.4
+  }
+]
